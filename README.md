@@ -2,7 +2,7 @@
 
 ## Summary
 
-This was an in-interview test question that I had to code while sharing my screen. I have since cleaned the code up and added comments.
+This was an in-interview test question that I had to code, while sharing my screen, this program. _(I have since cleaned the code up and added comments.)_
 
 ## Task
 
